@@ -1,0 +1,3 @@
+This is a personal Project made with Html - Css - & inline-Js .
+it function is to make simple maths calculation with 100% accuracy
+A simple and sweet Project ...
